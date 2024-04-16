@@ -47,7 +47,7 @@ PLATFORMS
 DEPENDENCIES
   pry
   rspec
-  rubocop (~> 0.57.2)
+  rubocop
 
 RUBY VERSION
    ruby 3.2.2p53

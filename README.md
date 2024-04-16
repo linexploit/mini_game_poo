@@ -2,7 +2,7 @@
 
 Lab from [The_Hacking_Project](https://www.thehackingproject.org/?locale=fr)
 
-Discover & practice of POO
+Discover & practice of POO via the mini-game creation 
 
 ```
             \                                           ___/________
